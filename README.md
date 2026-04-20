@@ -8,7 +8,7 @@ Verkefnið er greining á vatnfræðilegum gögnum fyrir Eystri-Rangá við Tung
 ## Gögn
 Gögnin sem notuð eru í vinnslu verkefnisins eru sótt úr LamaH-Ice gagnasettinu (Helgason & Nijssen, 2024): https://www.hydroshare.org/resource/705d69c0f77c48538d83cf383f8c63d6/ 
 
-Skrárnar sem eru notaðar eru 
+Skrárnar sem eru notaðar: 
 - `A_basins_total_upstrm/1_attributes/Catchment_attributes.csv` — eiginleikar vatnasviðsins
 - `A_basins_total_upstrm/2_timeseries/daily/meteorological_data/ID_14.csv` — dagleg veðurgögn
 - `D_gauges/2_timeseries/daily/ID_14.csv` — daglegt rennsli
