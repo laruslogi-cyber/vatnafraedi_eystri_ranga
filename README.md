@@ -15,7 +15,11 @@ Skrárnar sem eru notaðar eru
 
 ## Hvernig á að keyra kóðann
 1- Hlaða niður LamaH-Ice gagnasettinu (V1.5) `lamah_ice.zip` .
-2- Opna python forritunarumhverfið Google Colab.
-3- XXXXXXXXXXx (breyta nöfnum á id14 skránnum báðum)
+
+2- Byrja á að endurnefna id_14 skrárnar. Skýrðu skránna sem er í meteorogical data ID_14_meteo, og skrána sem er í d_gauges ID_14_discharge
+
+3- Opna python forritunarumhverfið Google Colab.
+
 4- Hlaða inn í forritunarumhverfið skránum þremur sem eru nefndar hér að ofan.
+
 5- Keyrið svo hvern lið fyrir sig með kóðunum úr scripts möppunni.
