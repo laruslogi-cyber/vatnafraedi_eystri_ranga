@@ -23,3 +23,4 @@ Skrárnar sem eru notaðar:
 4- Hlaða inn í forritunarumhverfið skránum þremur sem eru nefndar hér að ofan.
 
 5- Keyrið svo hvern lið fyrir sig með kóðunum úr scripts möppunni.
+  - Liðirnir í scripts möppunni eru eftir númerum, þ.e. vf_lv_l1 er liður 1 o.s.frv.
